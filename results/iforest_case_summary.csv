@@ -1,0 +1,5 @@
+case,months
+true_negative_proxy,172
+false_positive_proxy,15
+false_negative_proxy,15
+true_positive_proxy,6

@@ -1,0 +1,16 @@
+,dtype,missing_values,missing_pct
+Humidity,float64,65761,36.93
+Zonal Winds,float64,25163,14.13
+Meridional Winds,float64,25162,14.13
+Air Temp,float64,18237,10.24
+Sea Surface Temp,float64,17007,9.55
+Observation,int64,0,0.0
+Year,int64,0,0.0
+Month,int64,0,0.0
+Day,int64,0,0.0
+Date,datetime64[ns],0,0.0
+Latitude,float64,0,0.0
+Longitude,float64,0,0.0
+FullYear,int64,0,0.0
+MonthStart,datetime64[s],0,0.0
+CalendarMonth,int32,0,0.0
